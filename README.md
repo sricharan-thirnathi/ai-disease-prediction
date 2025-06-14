@@ -1,4 +1,4 @@
-
+*** READ IN CODE MODE ***
 # AI Symptom Disease Prediction
 
 This project aims to predict potential diseases based on a user's selected symptoms using a Machine Learning model. The web application is built with Streamlit, making it interactive and easy to use.
