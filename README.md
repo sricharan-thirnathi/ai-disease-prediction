@@ -4,8 +4,6 @@ This project aims to predict potential diseases based on a user's selected sympt
 
 ## Project Structure
 
-*** READ IN CODE MODE FOR PROJECT STRUCTURE***
-
 ai-disease-prediction/
 ├── data/
 │   └── Disease_Symptom.csv      # raw dataset
