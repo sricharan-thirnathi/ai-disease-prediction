@@ -4,22 +4,7 @@ This project aims to predict potential diseases based on a user's selected sympt
 
 ## Project Structure
 
-ai-disease-prediction/
-├── data/
-│   └── Disease_Symptom.csv      # raw dataset
-├── models/
-│   ├── disease_prediction_model.pkl  # Trained Random Forest Classifier
-│   ├── symptom_encoder.pkl         # Mapping of symptom names to numerical features
-│   └── disease_labels.pkl          # Mapping of numerical labels back to disease names
-├── app/
-│   └── app.py                     # Streamlit web application code
-├── scripts/
-│   └── train_model.py             # Script for data preprocessing and model training
-├── .gitignore                     # Specifies intentionally untracked files to ignore
-├── requirements.txt               # List of Python dependencies
-└── README.md      
-
-
+![Screenshot 2025-06-14 233359](https://github.com/user-attachments/assets/ee110083-d6c3-4cba-9dee-332e4eb71a76)
 
 ## How to Run Locally
 
